@@ -1,0 +1,14 @@
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.exe
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.deps.json
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.runtimeconfig.json
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.runtimeconfig.dev.json
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.dll
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\bin\Debug\netcoreapp3.1\CIValidator.pdb
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.csproj.AssemblyReference.cache
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.AssemblyInfoInputs.cache
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.AssemblyInfo.cs
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.csproj.CoreCompileInputs.cache
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.dll
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.pdb
+C:\Users\tere2\OneDrive\Desktop\guruyu\CIValidator\CIValidator\obj\Debug\netcoreapp3.1\CIValidator.genruntimeconfig.cache
